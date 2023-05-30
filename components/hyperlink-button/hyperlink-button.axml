@@ -1,5 +1,6 @@
 <view 
-  onTap="onWebView" 
+  data-set={{data}}
+  onTap="onRedirect" 
   class="links {{underLine == true ? 'under-line': ''}}" 
   style="{{style}}">
   <view>
