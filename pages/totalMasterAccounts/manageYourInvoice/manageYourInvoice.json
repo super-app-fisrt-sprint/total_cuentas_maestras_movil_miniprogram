@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "hr": "/components/hr/hr",
+    "arrow-button": "/components/arrow-button/arrow-button",
+    "hyperlink-button": "/components/hyperlink-button/hyperlink-button",
+    "loading-component": "/components/loading-component/loading-component",
+    "modal-accept": "/components/modal-accept/modal-accept"
+  },
+  "styleIsolation": "apply-shared"
+}
