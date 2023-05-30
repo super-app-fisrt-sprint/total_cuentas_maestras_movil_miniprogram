@@ -36,7 +36,7 @@ if(AFAppX.registerApp) {
 
 function success() {
 require('../../app');
-require('../../pages/index/index?hash=5158fa18297db3fbaac119609b168d20fcdf1eea');
+require('../../pages/index/index?hash=32d7d2807ed4e666ef03b4b3fe8c38ecf2e34e68');
 }
 self.bootstrapApp ? self.bootstrapApp({ success }) : success();
 }
